@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![bcc32's github stats](https://github-readme-stats.vercel.app/api?username=bcc32&theme=solarized-light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcc32&theme=solarized-light&exclude_repo=org-mode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bcc32/bcc32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
